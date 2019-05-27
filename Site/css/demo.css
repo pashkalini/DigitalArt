@@ -149,22 +149,10 @@ a:focus {
 
 @media only screen and (max-width: 580px) {
 	#video {
-		width: 96%;
-		padding-bottom: 67.2%;
+		margin-left: auto;
+		margin-right: auto;
 	}
 }
 
-@media only screen and (max-width: 400px) {
-	.card__caption {
-		font-size: 1.25em;
-		padding: 35px 0px 0px;
-	}
-	.meta {
-		padding: 0 0 25px 0;
-	}
-	.card__copy {
-		font-size: 90%;
-		padding: 25px 0px 100px;
-	}
-}
+
 
