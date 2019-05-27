@@ -152,6 +152,16 @@ a:focus {
 		margin-left: auto;
 		margin-right: auto;
 	}
+	
+	 #panel, #panel1, #panel2, #panel3 {
+	 padding: 0;
+	 /*color: black;*/
+	 display: none;
+	 margin-left:5%;
+	 margin-right:5%;
+	 text-align: justify;
+	 /*background-image: url(white.png);*/
+}
 }
 
 
