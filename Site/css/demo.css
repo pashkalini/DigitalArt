@@ -157,8 +157,8 @@ a:focus {
 	 padding: 0;
 	 /*color: black;*/
 	 display: none;
-	 margin-left:5%;
-	 margin-right:5%;
+	 margin-left: 0;
+	 margin-right: 0;
 	 text-align: justify;
 	 /*background-image: url(white.png);*/
 }
