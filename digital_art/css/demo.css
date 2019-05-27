@@ -148,7 +148,7 @@ a:focus {
 }
 
 @media only screen and (max-width: 560px) {
-	#video {
+	.vdideo {
 		width: auto;
 		height: auto;
 	}
