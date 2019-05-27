@@ -192,6 +192,11 @@
 		width: 100%;
 		padding-bottom: 67.2%;
 	}
+	.card_image {
+		width: 100%;
+		height: auto;
+		
+	}
 	.card__caption {
 		font-size: 14;
 		padding: 35px 0px 0px;
